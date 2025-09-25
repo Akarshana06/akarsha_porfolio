@@ -39,7 +39,7 @@ export function Contact() {
                 <h3 className="text-xl font-semibold text-foreground mb-6">Connect With Me</h3>
                 <div className="space-y-4">
                   <Button variant="outline" className="w-full justify-start bg-transparent" asChild>
-                    <a href="https:akarshana027@gmail.com" className="flex items-center gap-3">
+                    <a href="mailto:akarshana027@gmail.com" className="flex items-center gap-3">
                       <Mail className="h-5 w-5" />
                       Send me an email
                     </a>
