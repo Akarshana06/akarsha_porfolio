@@ -75,7 +75,7 @@ export function Contact() {
         </div>
 
         <div className="text-center mt-12 animate-fade-in">
-          <p className="text-sm text-muted-foreground">© 2025 S. Akarshana. Built with Next.js and Tailwind CSS.</p>
+           
         </div>
       </div>
     </section>
