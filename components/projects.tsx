@@ -19,7 +19,7 @@ const projects = [
     ],
     impact: "Successfully deployed and accessible for real users",
     links: {
-      github: "#",
+      github: "https://github.com/Akarshana06",
       render: "#",
       netlify: "#",
     },
@@ -37,7 +37,7 @@ const projects = [
     impact: "Awarded Best Design Prize in a hackathon",
     award: true,
     links: {
-      github: "#",
+      github: "https://github.com/Akarshana06",
     },
   },
 ]
