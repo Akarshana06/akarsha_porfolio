@@ -7,6 +7,24 @@ import { ExternalLink, Github, Award } from "lucide-react"
 
 const projects = [
   {
+    title: "QuickNotes – Simple Note-Taking App",
+    description:
+      "A clean and intuitive note-taking application with local storage persistence, featuring real-time editing and a modern UI.",
+    techStack: ["React", "JavaScript", "CSS", "localStorage", "Lucide React"],
+    features: [
+      "Create, edit, and delete notes instantly",
+      "Local storage for data persistence",
+      "Real-time note editing with save/cancel functionality",
+      "Responsive design with smooth animations",
+      "Clean and modern user interface",
+    ],
+    impact: "Fully functional web app deployed and accessible online",
+    links: {
+      github: "https://github.com/Akarshana06/Quicknotes",
+      netlify: "https://endearing-syrniki-01bdf8.netlify.app",
+    },
+  },
+  {
     title: "Clyra – Digital Time Capsule",
     description:
       "Built and deployed a full-stack digital time capsule platform enabling users to store and retrieve memories.",
